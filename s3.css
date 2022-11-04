@@ -1,0 +1,16 @@
+body {
+  font-family: "Noto Sans Mono", monospace;
+}
+.form-man {
+  display: block;
+  padding: 60px;
+  width: 75%;
+  color: white;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: left;
+  border: 3px solid #fff;
+  border-radius: 10px;
+  background-color: rgba(153, 153, 220, 51%);
+  box-shadow: 10px 5px 5px gray;
+}

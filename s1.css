@@ -1,0 +1,87 @@
+body {
+  background: url(fon.jpg);
+  background-size: 100% 100%;
+  font-family: "Noto Sans Mono", monospace;
+}
+form {
+  display: block;
+  padding: 40px;
+  width: 45%;
+  color: white;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  border: 3px solid #fff;
+  border-radius: 10px;
+  background-color: rgba(153, 153, 220, 31%);
+  box-shadow: 10px 5px 5px gray;
+}
+.form-control {
+  width: 100%;
+  padding: 10px;
+  box-shadow: 5px 3px 3px gray;
+}
+.upp {
+  padding: 8px;
+}
+.tupp {
+  margin: auto;
+}
+.bord {
+  border: 2px solid gray;
+  border-radius: 10px;
+  box-shadow: 5px 2px 2px gray;
+}
+.text-auth {
+  padding: 10px;
+  border: 3px solid #fff;
+  border-radius: 30px;
+  font-size: 120%;
+}
+.text-auth-big {
+  font-size: 120%;
+}
+.btn-btn {
+  margin-bottom: 50px;
+}
+.btn-btn-low {
+  margin-bottom: 7px;
+}
+.msg {
+  color: rgba(255, 102, 102, 80%);
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+.logout {
+  color: crimson;
+}
+.downn {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.btn-ban {
+  color: #fff;
+  background-color: blueviolet;
+}
+section {
+  float: left;
+  margin: 0 1.5%;
+  width: 63%;
+}
+aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 100%;
+}
+.up_str {
+  margin-top: 50px;
+}
+.form-in {
+  display: inline-block;
+}
+.forum_message {
+  border: 3px solid #fff;
+  border-radius: 10px;
+  background-color: rgba(153, 153, 220, 31%);
+}
